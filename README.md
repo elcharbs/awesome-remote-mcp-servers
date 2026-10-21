@@ -862,6 +862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - 31 deterministic tools: image conversion, EXIF stripping, App Store assets, colour maths.
 - [Globalping](https://globalping.io) `https://mcp.globalping.dev/mcp`
   🔐 - Run ping, traceroute, DNS, and HTTP checks from a global probe network.
+- [Goldsky Docs](https://docs.goldsky.com/mcp-server) `https://docs.goldsky.com/mcp`
+  [![Goldsky Docs MCP connector](https://glama.ai/mcp/connectors/com.goldsky/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.goldsky/docs)
+  🔓 - Search and read Goldsky docs: wallet Feeds APIs, prebuilt onchain datasets, Turbo pipelines, subgraphs, Edge RPC.
 - [HALLUX](https://blvkware.dev/hallux/) `https://api.blvkware.dev/hallux/mcp`
   [![HALLUX MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/hallux/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/hallux)
   🔓 - Check that a package, module or DOI exists in its registry before an agent installs, imports or cites it.
